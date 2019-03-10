@@ -23,6 +23,10 @@ No external paid service will be used, only external API used will be Twilio for
 4)Employee Management: Track the progress made by employees using various plots, Idea/Complaint Jotting Portal. People can post any New Idea, for everyone to see, And Seniors will be able to 
 comment and upvote the idea.
 
+# Currently Finished
 
+1) ChatRooms and 2) RTC
 
+# Ongoing
+Uptime Monitoring
 
