@@ -1,4 +1,4 @@
-# Acnologia-HackGrid
+# Acnologia-HackGrid-17BCE0610-Nikhil Chauhan
 This Repo contains solution to problem statement#1 for Hackgrid 2019 by ADG
 ***
 ##Problem Statement
