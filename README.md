@@ -7,7 +7,7 @@ Technical Solution that enables Small and Medium buisnesses and also track their
 ***
 ## My Work
 
-There are 4 Modules that I will be making, All of these are targetted at increasing efficiency and speed of the Startups.
+There are 4 Modules that I will be making, All of these are targetted at increasing efficiency and growth speed of the Startups.
 ### None of these modules include any expensive service. Thus will be fairly adoptable by small scale industries
 ---
 These are the modules I plan to complete:
