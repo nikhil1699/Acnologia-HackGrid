@@ -25,8 +25,8 @@ comment and upvote the idea.
 
 # Currently Finished
 
-1) ChatRooms and 2) RTC
+1) ChatRooms and 2) RTC 3) Uptime monitoring
 
 # Ongoing
-Uptime Monitoring
+Employee Management System
 
